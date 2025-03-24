@@ -57,7 +57,7 @@ Watch this repository for the latest updates and **feel free to raise pull reque
 
 ## Table of Contents 🍃
 - [Survey](#survey)
-- [Vision-Language Model](#vision-language-model)
+- [Vision-Language-Action Model](#vision-language-action-model)
 - [Self-Evolving Agents](#self-evolving-agents)
 - [Advanced Agent Applications](#advanced-agent-applications)
 - [LLMs with RL or World Model](#llms-with-rl-or-world-model)
@@ -99,13 +99,15 @@ Fudan NLP Group, miHoYo Inc
 * [**A Survey on LLM-based Autonomous Agents**](https://arxiv.org/pdf/2308.11432.pdf) [**arXiv 2023,08**] <br>
 Gaoling School of Artificial Intelligence, Renmin University of China
 
-> ### Vision-Language Model
+> ### Vision-Language-Action Model
 * [**π0: A Vision-Language-Action Flow Model for General Robot Control**](https://arxiv.org/abs/2410.24164) [**arXiv 2024.10**] [[**Project page**](https://www.physicalintelligence.company/blog/pi0)]<br>
 Physical Intelligence
 
 * [**Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models**](https://arxiv.org/pdf/2502.19417) [**arXiv 2025.02**] [[**Project page**](https://www.pi.website/research/hirobot)]<br>
 Physical Intelligence
 
+* [**OpenVLA: An Open-Source Vision-Language-Action Model**](https://arxiv.org/pdf/2406.09246) [**arXiv 2024.01**] [[**Github**](https://github.com/openvla/openvla)][[**Project page**](https://openvla.github.io/)][[**HuggingFace🤗**](https://huggingface.co/openvla)]<br>
+Stanford University, UC Berkeley, Toyota Research Institute, Google Deepmind, Physical Intelligence, MIT
 
 > ### Self-Evolving Agents
 
@@ -124,6 +126,7 @@ Fangzhi Xu<sup>♢♡</sup>, Qiushi Sun<sup>2, ♡</sup>, Kanzhi Cheng<sup>1</su
 Wangchunshu Zhou, Yixin Ou, Shengwei Ding, Long Li, Jialong Wu, Tiannan Wang, Jiamin Chen, Shuai Wang, Xiaohua Xu, Ningyu Zhang, Huajun Chen, Yuchen Eleanor Jiang<br>
 AIWaves Inc.
 https://meta-control-paper.github.io/
+
 > ### Advanced Agent Applications
 
 * [**Meta-Control: Automatic Model-based Control System Synthesis for Heterogeneous Robot Skills**](https://arxiv.org/pdf/2405.11380) [**CoRL 2024**] [[**Project page**](https://meta-control-paper.github.io/)]<br>
