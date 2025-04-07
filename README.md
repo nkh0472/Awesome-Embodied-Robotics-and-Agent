@@ -109,6 +109,12 @@ Physical Intelligence
 * [**OpenVLA: An Open-Source Vision-Language-Action Model**](https://arxiv.org/pdf/2406.09246) [**arXiv 2024.01**] [[**Github**](https://github.com/openvla/openvla)][[**Project page**](https://openvla.github.io/)][[**HuggingFace🤗**](https://huggingface.co/openvla)]<br>
 Stanford University, UC Berkeley, Toyota Research Institute, Google Deepmind, Physical Intelligence, MIT
 
+* [**FAST: Efficient Action Tokenization for Vision-Language-Action Models**](https://arxiv.org/abs/2501.09747) [**arXiv 2025.01**] [[**Project page**](https://www.pi.website/research/fast)][[**HuggingFace🤗**](https://huggingface.co/physical-intelligence/fast)]<br>
+Physical Intelligence
+
+
+
+
 > ### Self-Evolving Agents
 
 * [**Meta-Control: Automatic Model-based Control System Synthesis for Heterogeneous Robot Skills**](https://arxiv.org/pdf/2405.11380) [**CoRL 2024**] [[**Project page**](https://meta-control-paper.github.io/)]<br>
