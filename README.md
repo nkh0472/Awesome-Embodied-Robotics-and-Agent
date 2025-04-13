@@ -112,7 +112,8 @@ Stanford University, UC Berkeley, Toyota Research Institute, Google Deepmind, Ph
 * [**FAST: Efficient Action Tokenization for Vision-Language-Action Models**](https://arxiv.org/abs/2501.09747) [**arXiv 2025.01**] [[**Project page**](https://www.pi.website/research/fast)][[**HuggingFace🤗**](https://huggingface.co/physical-intelligence/fast)]<br>
 Physical Intelligence
 
-
+* [**RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control**](https://robotics-transformer2.github.io/assets/rt2.pdf) [**arXiv 2024.07**] [[**Project Page**](https://deepmind.google/discover/blog/rt-2-new-model-translates-vision-and-language-into-action/)] <br>
+Google Deepmind
 
 
 > ### Self-Evolving Agents
