@@ -115,6 +115,9 @@ Physical Intelligence
 * [**RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control**](https://robotics-transformer2.github.io/assets/rt2.pdf) [**arXiv 2024.07**] [[**Project Page**](https://deepmind.google/discover/blog/rt-2-new-model-translates-vision-and-language-into-action/)] <br>
 Google Deepmind
 
+* [**Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks**](https://arxiv.org/abs/2503.21696) [**arXiv 2025.03**] [[**Github**](https://github.com/zwq2018/embodied_reasoner)] [[**Project Page**](https://embodied-reasoner.github.io/)] [[**HuggingFace🤗**](https://huggingface.co/datasets/zwq2018/embodied_reasoner)] <br>
+Zhejiang University; Institute of Software, Chinese Academy of Sciences; Alibaba Group
+
 
 > ### Self-Evolving Agents
 
