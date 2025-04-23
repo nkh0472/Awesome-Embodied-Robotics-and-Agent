@@ -6,6 +6,7 @@
 Watch this repository for the latest updates and **feel free to raise pull requests if you find some interesting papers**!
 
 ## News🔥
+[2025/04/23] Add **π-0.5**, a lightweight and modular framework designed to integrate perception, control, and learning directly within physical systems.<br>
 [2025/03/18] Add some popular vision-language action (VLA) models. 🦾 <br>
 [2024/06/28] Created a new board about agent self-evolutionary research. 🤖 <br>
 [2024/06/07] Add **Mobile-Agent-v2**, a mobile device operation assistant with effective navigation via multi-agent collaboration. 🚀 <br>
@@ -100,6 +101,10 @@ Fudan NLP Group, miHoYo Inc
 Gaoling School of Artificial Intelligence, Renmin University of China
 
 > ### Vision-Language-Action Model
+
+* [**π0.5: a VLA with Open-World Generalization**](https://www.physicalintelligence.company/download/pi05.pdf) [**arXiv 2025.04**] [[**Project page**](https://www.physicalintelligence.company/blog/pi05)]<br>
+Physical Intelligence
+
 * [**π0: A Vision-Language-Action Flow Model for General Robot Control**](https://arxiv.org/abs/2410.24164) [**arXiv 2024.10**] [[**Project page**](https://www.physicalintelligence.company/blog/pi0)]<br>
 Physical Intelligence
 
