@@ -242,6 +242,10 @@ Inria, Flowers Laboratory.
 
 > ### Planning and Manipulation or Pretraining
 
+* [**RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics**](https://arxiv.org/abs/2411.16537) [**CVPR 2025 (Oral)**] [[**Project Page**](https://chanh.ee/RoboSpatial/)] [[**Code**](https://github.com/NVlabs/RoboSpatial)]<br>
+Chan Hee Song<sup>1</sup>, Valts Blukis<sup>2</sup>, Jonathan Tremblay<sup>2</sup>, Stephen Tyree<sup>2</sup>, Yu Su<sup>1</sup>, Stan Birchfield<sup>2</sup><br>
+<sup>1</sup>The Ohio State University, <sup>2</sup>NVIDIA
+
 * [**Meta-Control: Automatic Model-based Control System Synthesis for Heterogeneous Robot Skills**](https://arxiv.org/pdf/2405.11380) [**CoRL 2024**] [[**Project page**](https://meta-control-paper.github.io/)]<br>
 Tianhao Wei<sup>1*</sup>, Liqian Ma<sup>12*</sup>, Rui Chen<sup>1</sup>, Weiye Zhao<sup>1</sup>, Changliu Liu<sup>1</sup>
 <sup>*</sup>Equal Contribution <sup>1</sup>Carnegie Mellon University <sup>2</sup>Tsinghua University
