@@ -250,7 +250,7 @@ Chan Hee Song<sup>1</sup>, Valts Blukis<sup>2</sup>, Jonathan Tremblay<sup>2</su
 Byeonghwi Kim Jinyeon Kim Yuyeong Kim<sup>1,*</sup> Cheolhong Min Jonghyun Choi<sup>†</sup><br>
 Yonsei University <sup>1</sup>Gwangju Institute of Science and Technology
 
-* [**Pre-emptive Action Revision by Environmental Feedback for Embodied Instruction Following Agents**](https://openreview.net/pdf?id=cq2uB30uBM) [**CoRL**] [[**Project page**](https://pred-agent.github.io/)]<br>
+* [**Pre-emptive Action Revision by Environmental Feedback for Embodied Instruction Following Agents**](https://openreview.net/pdf?id=cq2uB30uBM) [**CoRL 2024**] [[**Project page**](https://pred-agent.github.io/)]<br>
 Jinyeon Kim<sup>1,2,*</sup>, Cheolhong Min<sup>1,*</sup>, Byeonghwi Kim<sup>1</sup>, Jonghyun Choi<sup>1</sup><br>
 <sup>1</sup>Seoul National University <sup>2</sup>Yonsei University
 
