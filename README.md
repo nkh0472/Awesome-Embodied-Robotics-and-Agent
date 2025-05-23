@@ -246,6 +246,14 @@ Inria, Flowers Laboratory.
 Chan Hee Song<sup>1</sup>, Valts Blukis<sup>2</sup>, Jonathan Tremblay<sup>2</sup>, Stephen Tyree<sup>2</sup>, Yu Su<sup>1</sup>, Stan Birchfield<sup>2</sup><br>
 <sup>1</sup>The Ohio State University, <sup>2</sup>NVIDIA
 
+* [**Multi-Modal Grounded Planning and Efficient Replanning For Learning Embodied Agents with A Few Examples**](https://arxiv.org/pdf/2412.17288) [**AAAI 2025**] [[**Project page**](https://twoongg.github.io/projects/flare/)]<br>
+Byeonghwi Kim Jinyeon Kim Yuyeong Kim<sup>1,*</sup> Cheolhong Min Jonghyun Choi<sup>†</sup><br>
+Yonsei University <sup>1</sup>Gwangju Institute of Science and Technology
+
+* [**Pre-emptive Action Revision by Environmental Feedback for Embodied Instruction Following Agents**](https://openreview.net/pdf?id=cq2uB30uBM) [**CoRL 2024**] [[**Project page**](https://pred-agent.github.io/)]<br>
+Jinyeon Kim<sup>1,2,*</sup>, Cheolhong Min<sup>1,*</sup>, Byeonghwi Kim<sup>1</sup>, Jonghyun Choi<sup>1</sup><br>
+<sup>1</sup>Seoul National University <sup>2</sup>Yonsei University
+
 * [**Meta-Control: Automatic Model-based Control System Synthesis for Heterogeneous Robot Skills**](https://arxiv.org/pdf/2405.11380) [**CoRL 2024**] [[**Project page**](https://meta-control-paper.github.io/)]<br>
 Tianhao Wei<sup>1*</sup>, Liqian Ma<sup>12*</sup>, Rui Chen<sup>1</sup>, Weiye Zhao<sup>1</sup>, Changliu Liu<sup>1</sup>
 <sup>*</sup>Equal Contribution <sup>1</sup>Carnegie Mellon University <sup>2</sup>Tsinghua University
@@ -360,7 +368,7 @@ Intelligence
 <sup>3</sup>Paul G. Allen School of
 Computer Science
 
-* [**Context-Aware Planning and Environment-Aware Memory for Instruction Following Embodied Agents**](https://arxiv.org/pdf/2308.07241v2.pdf) [**ICCV 2023**]<br>
+* [**Context-Aware Planning and Environment-Aware Memory for Instruction Following Embodied Agents**](https://arxiv.org/pdf/2308.07241v2.pdf) [**ICCV 2023**] [[**Project page**](https://bhkim94.github.io/projects/CAPEAM/)]<br>
 Byeonghwi Kim Jinyeon Kim Yuyeong Kim<sup>1,*</sup> Cheolhong Min Jonghyun Choi<sup>†</sup><br>
 Yonsei University <sup>1</sup>Gwangju Institute of Science and Technology
 
@@ -515,6 +523,14 @@ Abhishek Das<sup>1</sup>, Samyak Datta<sup>1</sup>, Georgia Gkioxari2<sup>2</sup
 <sup>1</sup>CMU, <sup>2</sup>Amazon Alexa AI, <sup>3</sup>University of Southern California
 
 > ### Benchmark
+
+* [**ReALFRED: An Embodied Instruction Following Benchmark in Photo-Realistic Environments**](https://arxiv.org/pdf/2407.18550) [**ECCV 2024**] [[**Project page**](https://twoongg.github.io/projects/realfred/)]<br>
+Taewoong Kim<sup>1*</sup>, Cheolhong Min<sup>1*</sup>, Byeonghwi Kim<sup>1</sup>, Jinyeon Kim<sup>12</sup>, Wonje Jeung<sup>1</sup>, Jonghyun Choi<sup>1</sup><br>
+<sup>*</sup>Equal Contribution <sup>1</sup>Seoul National University <sup>2</sup>Yonsei University
+
+* [**Online Continual Learning for Interactive Instruction Following Agents**](https://openreview.net/pdf?id=7M0EzjugaN) [**ICLR 2024**] [[**Project page**](https://bhkim94.github.io/projects/CL-ALFRED/)]<br>
+Byeonghwi Kim<sup>1*</sup>, Minhyuk Seo<sup>1*</sup>, Jonghyun Choi<sup>2</sup><br>
+<sup>*</sup>Equal Contribution <sup>1</sup>Yonsei University <sup>2</sup>Seoul National University
 
 * [**SmartPlay: A Benchmark for LLMs as Intelligent Agents**](https://openreview.net/pdf?id=0IOX0YcCdTn) [**ICLR 2024**]  [[**Github**](https://github.com/microsoft/SmartPlay)] <br> 
 Yue Wu<sup>1,2</sup>, Xuan Tang<sup>1</sup>, Tom Mitchell<sup>1</sup>, Yuanzhi Li<sup>1,2</sup>
