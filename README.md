@@ -247,8 +247,8 @@ Chan Hee Song<sup>1</sup>, Valts Blukis<sup>2</sup>, Jonathan Tremblay<sup>2</su
 <sup>1</sup>The Ohio State University, <sup>2</sup>NVIDIA
 
 * [**Multi-Modal Grounded Planning and Efficient Replanning For Learning Embodied Agents with A Few Examples**](https://arxiv.org/pdf/2412.17288) [**AAAI 2025**] [[**Project page**](https://twoongg.github.io/projects/flare/)]<br>
-Byeonghwi Kim Jinyeon Kim Yuyeong Kim<sup>1,*</sup> Cheolhong Min Jonghyun Choi<sup>†</sup><br>
-Yonsei University <sup>1</sup>Gwangju Institute of Science and Technology
+Taewoong Kim, Byeonghwi Kim, Jonghyun Choi<sup>†</sup><br>
+Seoul National University
 
 * [**Pre-emptive Action Revision by Environmental Feedback for Embodied Instruction Following Agents**](https://openreview.net/pdf?id=cq2uB30uBM) [**CoRL 2024**] [[**Project page**](https://pred-agent.github.io/)]<br>
 Jinyeon Kim<sup>1,2,*</sup>, Cheolhong Min<sup>1,*</sup>, Byeonghwi Kim<sup>1</sup>, Jonghyun Choi<sup>1</sup><br>
