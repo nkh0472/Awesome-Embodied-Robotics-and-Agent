@@ -101,26 +101,35 @@ Fudan NLP Group, miHoYo Inc
 Gaoling School of Artificial Intelligence, Renmin University of China
 
 > ### Vision-Language-Action Model
+> 
+* [**Robotic Control via Embodied Chain-of-Thought Reasoning**](https://openreview.net/pdf?id=S70MgnIA0v) [**CoRL 2024**] [[Github](https://github.com/MichalZawalski/embodied-CoT/)][[Project page](https://embodied-cot.github.io/)][[HuggingFace🤗](https://huggingface.co/Embodied-CoT)]<br>
+Michał Zawalski<sup>∗1,2</sup>, William Chen<sup>∗1</sup>, Karl Pertsch<sup>1,3</sup> Oier Mees<sup>1</sup>, Chelsea Finn<sup>3</sup>, Sergey Levine<sup>1</sup><br>
+<sup>1</sup>UC Berkeley, <sup>2</sup>University of Warsaw, <sup>3</sup>Stanford University
 
-* [**π0.5: a VLA with Open-World Generalization**](https://www.physicalintelligence.company/download/pi05.pdf) [**arXiv 2025.04**] [[**Project page**](https://www.physicalintelligence.company/blog/pi05)]<br>
+* [**π0.5: a VLA with Open-World Generalization**](https://www.physicalintelligence.company/download/pi05.pdf) [**arXiv 2025.04**] [[Project page](https://www.physicalintelligence.company/blog/pi05)]<br>
 Physical Intelligence
 
-* [**π0: A Vision-Language-Action Flow Model for General Robot Control**](https://arxiv.org/abs/2410.24164) [**arXiv 2024.10**] [[**Project page**](https://www.physicalintelligence.company/blog/pi0)]<br>
+
+
+* [**π0.5: a VLA with Open-World Generalization**](https://www.physicalintelligence.company/download/pi05.pdf) [**arXiv 2025.04**] [[Project page](https://www.physicalintelligence.company/blog/pi05)]<br>
 Physical Intelligence
 
-* [**Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models**](https://arxiv.org/pdf/2502.19417) [**arXiv 2025.02**] [[**Project page**](https://www.pi.website/research/hirobot)]<br>
+* [**π0: A Vision-Language-Action Flow Model for General Robot Control**](https://arxiv.org/abs/2410.24164) [**arXiv 2024.10**] [[Project page](https://www.physicalintelligence.company/blog/pi0)]<br>
 Physical Intelligence
 
-* [**OpenVLA: An Open-Source Vision-Language-Action Model**](https://arxiv.org/pdf/2406.09246) [**arXiv 2024.01**] [[**Github**](https://github.com/openvla/openvla)][[**Project page**](https://openvla.github.io/)][[**HuggingFace🤗**](https://huggingface.co/openvla)]<br>
+* [**Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models**](https://arxiv.org/pdf/2502.19417) [**arXiv 2025.02**] [[Project page](https://www.pi.website/research/hirobot)]<br>
+Physical Intelligence
+
+* [**OpenVLA: An Open-Source Vision-Language-Action Model**](https://arxiv.org/pdf/2406.09246) [arXiv 2024.01] [[Github](https://github.com/openvla/openvla)][[Project page](https://openvla.github.io/)][[HuggingFace🤗](https://huggingface.co/openvla)]<br>
 Stanford University, UC Berkeley, Toyota Research Institute, Google Deepmind, Physical Intelligence, MIT
 
-* [**FAST: Efficient Action Tokenization for Vision-Language-Action Models**](https://arxiv.org/abs/2501.09747) [**arXiv 2025.01**] [[**Project page**](https://www.pi.website/research/fast)][[**HuggingFace🤗**](https://huggingface.co/physical-intelligence/fast)]<br>
+* [**FAST: Efficient Action Tokenization for Vision-Language-Action Models**](https://arxiv.org/abs/2501.09747) [**arXiv 2025.01**] [[Project page](https://www.pi.website/research/fast)][[HuggingFace🤗](https://huggingface.co/physical-intelligence/fast)]<br>
 Physical Intelligence
 
-* [**RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control**](https://robotics-transformer2.github.io/assets/rt2.pdf) [**arXiv 2024.07**] [[**Project Page**](https://deepmind.google/discover/blog/rt-2-new-model-translates-vision-and-language-into-action/)] <br>
+* [**RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control**](https://robotics-transformer2.github.io/assets/rt2.pdf) [**arXiv 2024.07**] [[Project Page](https://deepmind.google/discover/blog/rt-2-new-model-translates-vision-and-language-into-action/)] <br>
 Google Deepmind
 
-* [**Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks**](https://arxiv.org/abs/2503.21696) [**arXiv 2025.03**] [[**Github**](https://github.com/zwq2018/embodied_reasoner)] [[**Project Page**](https://embodied-reasoner.github.io/)] [[**HuggingFace🤗**](https://huggingface.co/datasets/zwq2018/embodied_reasoner)] <br>
+* [**Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks**](https://arxiv.org/abs/2503.21696) [**arXiv 2025.03**] [[Github](https://github.com/zwq2018/embodied_reasoner)] [[Project Page](https://embodied-reasoner.github.io/)] [[HuggingFace🤗](https://huggingface.co/datasets/zwq2018/embodied_reasoner)] <br>
 Zhejiang University; Institute of Software, Chinese Academy of Sciences; Alibaba Group
 
 
