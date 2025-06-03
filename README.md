@@ -461,6 +461,11 @@ Joanne Truong<sup>1,2</sup>, April Zitkovich<sup>1</sup>, Sonia Chernova<sup>2</
 <sup>1</sup>Robotics at Google <sup>2</sup>Georgia Institute of Technology <sup>3</sup>Meta AI
 
 
+* [**DivScene: Benchmarking LVLMs for Object Navigation with Diverse Scenes and Objects**](https://arxiv.org/abs/2410.02730) [**arXiv 2024**] [[**Project page**](https://zhaowei-wang-nlp.github.io/divscene-project-page/)]<br>
+Zhaowei Wang<sup>1</sup>, Hongming Zhang<sup>2</sup>, Tianqing Fang<sup>1,2</sup>, Ye Tian<sup>3</sup>, Yue Yang<sup>4</sup>, Kaixin Ma<sup>2</sup>, Xiaoman Pan<sup>2</sup>, Yangqiu Song<sup>1</sup>, Dong Yu<sup>2</sup><br>
+<sup>1</sup>CSE Department, HKUST&nbsp;&nbsp;<sup>2</sup>Tencent AI Lab, Bellevue, USA&nbsp;&nbsp;<sup>3</sup>Robotics X, Tencent&nbsp;&nbsp;<sup>4</sup>University of Pennsylvania
+
+
 * [**ESC: Exploration with Soft Commonsense Constraints for Zero-shot Object Navigation**](https://openreview.net/attachment?id=GydFM0ZEXY&name=pdf) [**ICML 2023**] <br>
 Kaiwen Zhou<sup>1</sup>, Kaizhi Zheng<sup>1</sup>, Connor Pryor<sup>1</sup>, Yilin Shen<sup>2</sup>, Hongxia Jin<sup>2</sup>, Lise Getoor<sup>1</sup>, Xin Eric Wang<sup>1</sup><br>
 <sup>1</sup>University of California, Santa Cruz <sup>2</sup>Samsung Research America.
@@ -532,6 +537,10 @@ Abhishek Das<sup>1</sup>, Samyak Datta<sup>1</sup>, Georgia Gkioxari2<sup>2</sup
 <sup>1</sup>CMU, <sup>2</sup>Amazon Alexa AI, <sup>3</sup>University of Southern California
 
 > ### Benchmark
+
+* [**DivScene: Benchmarking LVLMs for Object Navigation with Diverse Scenes and Objects**](https://arxiv.org/abs/2410.02730) [**arXiv 2024**] [[**Project page**](https://zhaowei-wang-nlp.github.io/divscene-project-page/)]<br>
+Zhaowei Wang<sup>1</sup>, Hongming Zhang<sup>2</sup>, Tianqing Fang<sup>1,2</sup>, Ye Tian<sup>3</sup>, Yue Yang<sup>4</sup>, Kaixin Ma<sup>2</sup>, Xiaoman Pan<sup>2</sup>, Yangqiu Song<sup>1</sup>, Dong Yu<sup>2</sup><br>
+<sup>1</sup>CSE Department, HKUST&nbsp;&nbsp;<sup>2</sup>Tencent AI Lab, Bellevue, USA&nbsp;&nbsp;<sup>3</sup>Robotics X, Tencent&nbsp;&nbsp;<sup>4</sup>University of Pennsylvania
 
 * [**ReALFRED: An Embodied Instruction Following Benchmark in Photo-Realistic Environments**](https://arxiv.org/pdf/2407.18550) [**ECCV 2024**] [[**Project page**](https://twoongg.github.io/projects/realfred/)]<br>
 Taewoong Kim<sup>1*</sup>, Cheolhong Min<sup>1*</sup>, Byeonghwi Kim<sup>1</sup>, Jinyeon Kim<sup>12</sup>, Wonje Jeung<sup>1</sup>, Jonghyun Choi<sup>1</sup><br>
