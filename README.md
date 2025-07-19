@@ -251,6 +251,10 @@ Inria, Flowers Laboratory.
 
 > ### Planning and Manipulation or Pretraining
 
+* [**RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics**](https://arxiv.org/pdf/2506.04308) [**Arxiv 2025**] [[**Project Page**](https://zhoues.github.io/RoboRefer/)] [[**Code**](https://github.com/Zhoues/RoboRefer)]<br>
+Enshen Zhou<sup>1,2,*</sup>, Jingkun An<sup>1,*</sup>, Cheng Chi<sup>2,*</sup><br>
+<sup>1</sup>Beihang University, <sup>2</sup>Beijing Academy of Artificial Intelligence
+
 * [**RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics**](https://arxiv.org/abs/2411.16537) [**CVPR 2025 (Oral)**] [[**Project Page**](https://chanh.ee/RoboSpatial/)] [[**Code**](https://github.com/NVlabs/RoboSpatial)]<br>
 Chan Hee Song<sup>1</sup>, Valts Blukis<sup>2</sup>, Jonathan Tremblay<sup>2</sup>, Stephen Tyree<sup>2</sup>, Yu Su<sup>1</sup>, Stan Birchfield<sup>2</sup><br>
 <sup>1</sup>The Ohio State University, <sup>2</sup>NVIDIA
@@ -537,6 +541,10 @@ Abhishek Das<sup>1</sup>, Samyak Datta<sup>1</sup>, Georgia Gkioxari2<sup>2</sup
 <sup>1</sup>CMU, <sup>2</sup>Amazon Alexa AI, <sup>3</sup>University of Southern California
 
 > ### Benchmark
+
+* [**RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics**](https://arxiv.org/pdf/2506.04308) [**Arxiv 2025**] [[**Project Page**](https://zhoues.github.io/RoboRefer/)]<br>
+Enshen Zhou<sup>1,2,*</sup>, Jingkun An<sup>1,*</sup>, Cheng Chi<sup>2,*</sup><br>
+<sup>1</sup>Beihang University, <sup>2</sup>Beijing Academy of Artificial Intelligence
 
 * [**DivScene: Benchmarking LVLMs for Object Navigation with Diverse Scenes and Objects**](https://arxiv.org/abs/2410.02730) [**arXiv 2024**] [[**Project page**](https://zhaowei-wang-nlp.github.io/divscene-project-page/)]<br>
 Zhaowei Wang<sup>1</sup>, Hongming Zhang<sup>2</sup>, Tianqing Fang<sup>1,2</sup>, Ye Tian<sup>3</sup>, Yue Yang<sup>4</sup>, Kaixin Ma<sup>2</sup>, Xiaoman Pan<sup>2</sup>, Yangqiu Song<sup>1</sup>, Dong Yu<sup>2</sup><br>
