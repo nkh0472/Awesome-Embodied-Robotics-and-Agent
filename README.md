@@ -504,8 +504,12 @@ Beijing Institute for General Artificial Intelligence (BIGAI)
 
 > ### Interactive Embodied Learning
 
+* [**CombatVLA: An Efficient Vision-Language-Action Model for Combat Tasks in 3D Action Role-Playing Games**](https://arxiv.org/abs/2503.09527) [**ICCV 2025**] [[**Project page**](https://combatvla.github.io/)]<br>
+Peng Chen*, Pi Bu*, Yingyao Wang,  Xinyi Wang, Ziming Wang, Jie Guo, Yingxiu Zhao, Qi Zhu, Jun Song†,  Siran Wang, Jiamang Wang, Bo Zheng<br>
+Alibaba Group
+
 * [**Meta-Control: Automatic Model-based Control System Synthesis for Heterogeneous Robot Skills**](https://arxiv.org/pdf/2405.11380) [**CoRL 2024**] [[**Project page**](https://meta-control-paper.github.io/)]<br>
-Tianhao Wei<sup>1*</sup>, Liqian Ma<sup>12*</sup>, Rui Chen<sup>1</sup>, Weiye Zhao<sup>1</sup>, Changliu Liu<sup>1</sup>
+Tianhao Wei<sup>1*</sup>, Liqian Ma<sup>12*</sup>, Rui Chen<sup>1</sup>, Weiye Zhao<sup>1</sup>, Changliu Liu<sup>1</sup><br>
 <sup>*</sup>Equal Contribution <sup>1</sup>Carnegie Mellon University <sup>2</sup>Tsinghua University
 
 
@@ -514,8 +518,7 @@ Thomas Carta<sup>1*</sup>, Clement Romac ´<sup>1,2</sup>, Thomas Wolf<sup>2</su
 <sup>1</sup>Inria (Flowers), University of Bordeaux, <sup>2</sup>Hugging Face, <sup>3</sup>Univ Angers, LERIA, SFR MATHSTIC,
 F-49000, <sup>4</sup>Sorbonne University, ISIR
 
-* [**Learning Affordance Landscapes for
-Interaction Exploration in 3D Environments**](https://arxiv.org/pdf/2008.09241.pdf) [**NeurIPS 2020**] [![](https://img.shields.io/github/stars/facebookresearch/interaction-exploration?style=social&label=Code+Stars)](https://github.com/facebookresearch/interaction-exploration) [[Project page](https://vision.cs.utexas.edu/projects/interaction-exploration/)] <br>
+* [**Learning Affordance Landscapes for Interaction Exploration in 3D Environments**](https://arxiv.org/pdf/2008.09241.pdf) [**NeurIPS 2020**] [![](https://img.shields.io/github/stars/facebookresearch/interaction-exploration?style=social&label=Code+Stars)](https://github.com/facebookresearch/interaction-exploration) [[Project page](https://vision.cs.utexas.edu/projects/interaction-exploration/)] <br>
 Tushar Nagarajan, Kristen Grauman<br>
 UT Austin and Facebook AI Research, UT Austin and Facebook AI Research
 
