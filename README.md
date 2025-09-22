@@ -137,7 +137,7 @@ Zhejiang University; Institute of Software, Chinese Academy of Sciences; Alibaba
 
 * [**Meta-Control: Automatic Model-based Control System Synthesis for Heterogeneous Robot Skills**](https://arxiv.org/pdf/2405.11380) [**CoRL 2024**] [[**Project page**](https://meta-control-paper.github.io/)]<br>
 Tianhao Wei<sup>1*</sup>, Liqian Ma<sup>12*</sup>, Rui Chen<sup>1</sup>, Weiye Zhao<sup>1</sup>, Changliu Liu<sup>1</sup><br>
-<sup>*</sup>Equal Contribution <sup>1</sup>Carnegie Mellon University <sup>2</sup>Tsinghua University
+<sup>1</sup>Carnegie Mellon University <sup>2</sup>Tsinghua University
 
 * [**AGENTGYM: Evolving Large Language Model-based Agents across Diverse Environments**](https://arxiv.org/pdf/2406.04151) [**arXiv 2024.06**] [[**Github**](https://github.com/WooooDyy/AgentGym)] [[**Project page**](https://agentgym.github.io/)] <br>
 Fudan NLP Lab & Fudan Vision and Learning Lab
