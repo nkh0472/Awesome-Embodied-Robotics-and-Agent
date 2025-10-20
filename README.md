@@ -101,15 +101,12 @@ Fudan NLP Group, miHoYo Inc
 Gaoling School of Artificial Intelligence, Renmin University of China
 
 > ### Vision-Language-Action Model
-> 
+* [**D2E: Scaling Vision-Action Pretraining on Desktop Data for Transfer to Embodied AI**](https://arxiv.org/abs/2510.05684) [arXiv 2025.10] [[Github](https://github.com/worv-ai/D2E)][[Project page](https://worv-ai.github.io/d2e/)][[HuggingFace🤗](https://huggingface.co/papers/2510.05684)]<br>
+Stanford University, Seoul National University, MAUM.AI
+
 * [**Robotic Control via Embodied Chain-of-Thought Reasoning**](https://openreview.net/pdf?id=S70MgnIA0v) [**CoRL 2024**] [[Github](https://github.com/MichalZawalski/embodied-CoT/)][[Project page](https://embodied-cot.github.io/)][[HuggingFace🤗](https://huggingface.co/Embodied-CoT)]<br>
 Michał Zawalski<sup>∗1,2</sup>, William Chen<sup>∗1</sup>, Karl Pertsch<sup>1,3</sup> Oier Mees<sup>1</sup>, Chelsea Finn<sup>3</sup>, Sergey Levine<sup>1</sup><br>
 <sup>1</sup>UC Berkeley, <sup>2</sup>University of Warsaw, <sup>3</sup>Stanford University
-
-* [**π0.5: a VLA with Open-World Generalization**](https://www.physicalintelligence.company/download/pi05.pdf) [**arXiv 2025.04**] [[Project page](https://www.physicalintelligence.company/blog/pi05)]<br>
-Physical Intelligence
-
-
 
 * [**π0.5: a VLA with Open-World Generalization**](https://www.physicalintelligence.company/download/pi05.pdf) [**arXiv 2025.04**] [[Project page](https://www.physicalintelligence.company/blog/pi05)]<br>
 Physical Intelligence
@@ -459,6 +456,10 @@ Andrew Szot<sup>1,2</sup> Unnat Jain<sup>1</sup> Dhruv Batra<sup>1,2</sup> Zsolt
 <sup>1</sup>Meta AI <sup>2</sup>Georgia Institute of Technology.
 
 > ### Vision and Language Navigation
+
+* [**CANVAS: Commonsense-Aware Navigation System for Intuitive Human-Robot Interaction**](https://arxiv.org/abs/2410.01273) [**arXiv 2024**] <br>
+Suhwan Choi<sup>1</sup> Yongjun Cho<sup>1</sup> Minchan Kim<sup>1</sup> Jaeyoon Jung<sup>1</sup> Myunchul Joe<sup>1</sup> Yubeen Park<sup>1</sup> Minseo Kim<sup>2</sup> Sungwoong Kim<sup>2</sup> Sungjae Lee<sup>2</sup> Hwiseong Park<sup>1</sup> Jiwan Chung<sup>2</sup> Youngjae Yu<sup>2</sup> <br>
+<sup>1</sup>MAUM.AI <sup>2</sup>Yonsei University
 
 * [**IndoorSim-to-OutdoorReal: Learning to Navigate Outdoors without any Outdoor Experience**](http://arxiv.org/abs/2305.01098) [**arXiv 2023**] <br>
 Joanne Truong<sup>1,2</sup>, April Zitkovich<sup>1</sup>, Sonia Chernova<sup>2</sup>, Dhruv Batra<sup>2,3</sup>, Tingnan Zhang<sup>1</sup>, Jie Tan<sup>1</sup>, Wenhao Yu<sup>1</sup><br>
