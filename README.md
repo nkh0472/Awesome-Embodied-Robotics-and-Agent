@@ -6,6 +6,7 @@
 Watch this repository for the latest updates and **feel free to raise pull requests if you find some interesting papers**!
 
 ## News🔥
+[2025/10/30] 🎉 Our survey paper "**A Survey on Efficient Vision-Language-Action Models**" [[arXiv]](https://arxiv.org/abs/2510.24795) has been released!<br>
 [2025/04/23] Add **π-0.5**, a lightweight and modular framework designed to integrate perception, control, and learning directly within physical systems.<br>
 [2025/03/18] Add some popular vision-language action (VLA) models. 🦾 <br>
 [2024/06/28] Created a new board about agent self-evolutionary research. 🤖 <br>
@@ -77,6 +78,14 @@ Watch this repository for the latest updates and **feel free to raise pull reque
 ## Methods
 
 > ### Survey
+
+* [**A Survey on Efficient Vision-Language-Action Models**](https://arxiv.org/abs/2510.24795) [**arXiv 2025.10**] [[**Github**](https://github.com/YuZhaoshu/Efficient-VLAs-Survey)] [[**Project Page**](https://evla-survey.github.io/)]<br>
+Zhaoshu Yu<sup>1</sup>, Bo Wang<sup>1</sup>, Pengpeng Zeng<sup>1</sup>, Haonan Zhang<sup>1</sup>, Ji Zhang<sup>1</sup>, Lianli Gao<sup>3</sup>, Jingkuan Song<sup>1</sup>, Nicu Sebe<sup>4</sup>, Heng Tao Shen<sup>1</sup><br>
+<sup>1</sup> Tongji University,
+<sup>2</sup> Southwest Jiaotong University,
+<sup>3</sup> University of Electronic Science and Technology of China,
+<sup>4</sup> University of Trento
+
 
 * [**A Survey on Vision-Language-Action Models for Embodied AI**](https://arxiv.org/pdf/2405.14093) [**arXiv 2024.03**]<br>
 The Chinese University of Hong Kong, Huawei Noah’s Ark Lab
