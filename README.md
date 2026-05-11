@@ -6,6 +6,7 @@
 Watch this repository for the latest updates and **feel free to raise pull requests if you find some interesting papers**!
 
 ## News🔥
+[2026/05/11] 🎉 Add **NavSpace: How Intelligent Agents Follow Spatial Intelligence Instructions** (**ICRA 2026**), the first benchmark for evaluating spatial intelligence in embodied navigation, with open-sourced dataset, evaluation code, and baseline **SNav**. [[arXiv]](https://arxiv.org/abs/2510.08173) [[Github]](https://github.com/TidalHarley/NavSpace)<br>
 [2025/10/30] 🎉 Our survey paper "**A Survey on Efficient Vision-Language-Action Models**" [[arXiv]](https://arxiv.org/abs/2510.24795) has been released!<br>
 [2025/04/23] Add **π-0.5**, a lightweight and modular framework designed to integrate perception, control, and learning directly within physical systems.<br>
 [2025/03/18] Add some popular vision-language action (VLA) models. 🦾 <br>
@@ -569,6 +570,10 @@ Abhishek Das<sup>1</sup>, Samyak Datta<sup>1</sup>, Georgia Gkioxari2<sup>2</sup
 <sup>1</sup>CMU, <sup>2</sup>Amazon Alexa AI, <sup>3</sup>University of Southern California
 
 > ### Benchmark
+
+* [**NavSpace: How Intelligent Agents Follow Spatial Intelligence Instructions**](https://arxiv.org/abs/2510.08173) [**ICRA 2026**] [[**Github**](https://github.com/TidalHarley/NavSpace)]<br>
+Haolin Yang<sup>1,2,*</sup>, Yuxing Long<sup>1,2,*</sup>, Zhuoyuan Yu<sup>1,2</sup>, Zihan Yang<sup>1</sup>, Minghan Wang<sup>1</sup>, Jiapeng Xu<sup>1</sup>, Yihan Wang<sup>1</sup>, Ziyan Yu<sup>1</sup>, Wenzhe Cai<sup>3</sup>, Lei Kang<sup>1</sup>, Hao Dong<sup>1,2,†</sup><br>
+<sup>*</sup>Equal Contribution <sup>†</sup>Corresponding author <sup>1</sup>CFCS, School of Computer Science, Peking University, <sup>2</sup>PrimeBot, <sup>3</sup>Shanghai AI Lab
 
 * [**RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics**](https://arxiv.org/pdf/2506.04308) [**Arxiv 2025**] [[**Project Page**](https://zhoues.github.io/RoboRefer/)]<br>
 Enshen Zhou<sup>1,2,*</sup>, Jingkun An<sup>1,*</sup>, Cheng Chi<sup>2,*</sup><br>
