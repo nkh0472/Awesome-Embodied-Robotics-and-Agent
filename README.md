@@ -154,6 +154,10 @@ Zhejiang University; Institute of Software, Chinese Academy of Sciences; Alibaba
 
 > ### Self-Evolving Agents
 
+* [**VLM Can Be a Good Assistant: Enhancing Embodied Visual Tracking with Self-Improving Vision-Language Models**](https://arxiv.org/abs/2505.20718) [**IROS 2025**] [[**Project page**](https://sites.google.com/view/evt-recovery-assistant)]<br>
+Kui Wu<sup>1</sup>, Shuhang Xu<sup>2</sup>, Hao Chen<sup>3</sup>, Churan Wang<sup>4</sup>, Zhoujun Li<sup>1</sup>, Yizhou Wang<sup>4</sup>, Fangwei Zhong<sup>2</sup><br>
+<sup>1</sup>Beihang University, <sup>2</sup>Beijing Normal University, <sup>3</sup>City University of Macau, <sup>4</sup>Peking University
+
 * [**Meta-Control: Automatic Model-based Control System Synthesis for Heterogeneous Robot Skills**](https://arxiv.org/pdf/2405.11380) [**CoRL 2024**] [[**Project page**](https://meta-control-paper.github.io/)]<br>
 Tianhao Wei<sup>1*</sup>, Liqian Ma<sup>12*</sup>, Rui Chen<sup>1</sup>, Weiye Zhao<sup>1</sup>, Changliu Liu<sup>1</sup><br>
 <sup>1</sup>Carnegie Mellon University <sup>2</sup>Tsinghua University
@@ -460,6 +464,10 @@ Beijing Institute for General Artificial Intelligence (BIGAI)
 
 > ###  Multi-Agent Learning and Coordination
 
+* [**Communication-Efficient Desire Alignment for Embodied Agent-Human Adaptation**](https://arxiv.org/abs/2505.22503) [**ACL 2026 (Oral)**]<br>
+Yuanfei Wang<sup>1</sup>, Xinju Huang<sup>2</sup>, Fangwei Zhong<sup>2</sup>, Yaodong Yang<sup>1</sup>, Yizhou Wang<sup>1</sup>, Yuanpei Chen<sup>1</sup>, Hao Dong<sup>1</sup><br>
+<sup>1</sup>Peking University, <sup>2</sup>Beijing Normal University
+
 * [**Building Cooperative Embodied Agents Modularly with Large Language Models**](https://openreview.net/forum?id=EnXJfQqy0K) [**ICLR 2024**] [[**Project page**](https://vis-www.cs.umass.edu/Co-LLM-Agents/)] [[**Github**](https://github.com/UMass-Foundation-Model/Co-LLM-Agents/)]<br>
 Hongxin Zhang<sup>1*</sup>, Weihua Du<sup>2*</sup>, Jiaming Shan<sup>3</sup>, Qinhong Zhou<sup>1</sup>, Yilun Du<sup>4</sup>, Joshua B. Tenenbaum<sup>4</sup>, Tianmin Shu<sup>4</sup>, Chuang Gan<sup>1,5</sup><br>
 <sup>1</sup>University of Massachusetts Amherst, <sup>2</sup>Tsinghua University, <sup>3</sup>Shanghai Jiao Tong University, <sup>4</sup>MIT, <sup>5</sup>MIT-IBM Watson AI Lab
@@ -634,6 +642,10 @@ Institute of Computing Technology, CAS,
 <sup>2</sup>University of Chinese Academy of Sciences, <sup>3</sup>Beijing Academy of Artificial Intelligence
 
 > ### Simulator
+* [**UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI**](https://arxiv.org/abs/2412.20977) [**ICCV 2025 (Highlight)**] [[**Project page**](https://unrealzoo.site/)] [[**Github**](https://github.com/UnrealZoo/unrealzoo-gym)]<br>
+Fangwei Zhong<sup>1,6</sup>, Kui Wu<sup>2</sup>, Churan Wang<sup>3</sup>, Hao Chen<sup>4</sup>, Hai Ci<sup>5</sup>, Zhoujun Li<sup>2</sup>, Yizhou Wang<sup>3</sup><br>
+<sup>1</sup>Beijing Normal University, <sup>2</sup>Beihang University, <sup>3</sup>Peking University, <sup>4</sup>City University of Macau, <sup>5</sup>National University of Singapore, <sup>6</sup>Beijing Institute for General Artificial Intelligence
+
 * [**LEGENT: Open Platform for Embodied Agents**](https://arxiv.org/pdf/2404.18243) [**ACL 2024**] [[**Project page**](https://docs.legent.ai/)] [[**Github**](https://github.com/thunlp/LEGENT)]<br>
 Tsinghua University<br>
 
